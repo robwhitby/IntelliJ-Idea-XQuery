@@ -1,8 +1,7 @@
 *XQuery language and MarkLogic API support for IntelliJ IDEA*
+Pretty basic but better than nothing..
 
-Copy XQuery.xml to .IntelliJIdea10\config\filetypes
-
-Restart IntelliJ
-
-Register extensions:
-Settings > File Types > XQuery Files > Registered Patterns > Add
+*Installation*
+* Copy XQuery.xml to .IntelliJIdea10\config\filetypes
+* Restart IntelliJ
+* Settings > File Types > XQuery Files > Registered Patterns > Add ".xqy"
