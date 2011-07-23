@@ -1,0 +1,4 @@
+*Adds XQuery language and MarkLogic API support to IntelliJ IDEA*
+
+Copy XQuery.xml to .IntelliJIdea10\config\filetypes
+Restart IDEA
