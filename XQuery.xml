@@ -23,6 +23,7 @@
       <keyword name="before" />
       <keyword name="case" />
       <keyword name="cast" />
+      <keyword name="castable" />
       <keyword name="child" />
       <keyword name="comment" />
       <keyword name="declare" />
@@ -56,6 +57,7 @@
       <keyword name="precedes" />
       <keyword name="preceding" />
       <keyword name="preceding-sibling" />
+      <keyword name="private" />
       <keyword name="processing-instruction" />
       <keyword name="ref" />
       <keyword name="return" />
