@@ -1,3 +1,6 @@
+*Top tip:* Ignore this old project and use Ron's vastly superior "IntelliJ XQuery Plugin":https://github.com/overstory/intellij-xquery-plugin
+
+
 *XQuery language and MarkLogic API support for IntelliJ IDEA*
 Pretty basic but better than nothing..
 
